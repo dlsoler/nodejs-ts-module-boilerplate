@@ -1,4 +1,4 @@
-# A simple boilerplate to Typescript and Jest  to build Node.js a module
+# A simple Node.js module boilerplate with Typescript, Eslint and Jest
 
 It is a very simple boilerplate to build a Node.js module with Typescript.
 Also, it uses Jest for testing.
