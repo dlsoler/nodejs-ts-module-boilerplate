@@ -1,4 +1,4 @@
-# Images and Videos Upload Tests
+# NodeJS Typescript Module Boilerplate
 
 All notable changes to this project will be documented in this file.
 
@@ -8,7 +8,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 * This is the initial version.
 
-* It includes helpers to login and logout on the platform.
 
 &nbsp;
 

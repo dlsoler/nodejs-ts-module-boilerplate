@@ -9,6 +9,10 @@ Also, it uses Jest for testing.
 
 2. Install the Node.js modules.
 
+```shell
+npm install
+```
+
 3. Start coding and running tests.
 
 
